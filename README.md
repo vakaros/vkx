@@ -247,6 +247,7 @@ The following rows are used internally but because VKX is fixed-size they need t
 | `0x07` | 12                    |
 | `0x0E` | 16                    |
 | `0x20` | 13                    |
+| `0x21` | 52                    |
 
 
 
@@ -260,5 +261,6 @@ The following rows are used internally but because VKX is fixed-size they need t
 | R04      | `0x03`        | 27-Apr-2023 | VKX 1.2. Temp message has new ID of `0x10` |
 | R05      | `0x04`        | 04-Oct-2023 | VKX 1.3 |
 | R05-Fix  | `0x04`        | 04-Mar-2024 | Fix unit type in doc to match what's actually being exported |
+| R06      | `0x05`        | 29-May-2024  | Added new internal type |
 
 
