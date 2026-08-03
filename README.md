@@ -26,7 +26,7 @@ This document uses the following type IDs to describe primitive data types. All 
 
 ### Row Structure
 
-A VKX file is separated into "rows" that always have an unique `U8` key and a fixed-size payload defined for that key. 
+A VKX file is separated into "rows" that always have an unique `U1` key and a fixed-size payload defined for that key. 
 
 
 
